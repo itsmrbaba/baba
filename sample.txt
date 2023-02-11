@@ -1,0 +1,5 @@
+HELLO ALL
+GOOD MORNING
+THANK YOU
+
+cat sample.txt
